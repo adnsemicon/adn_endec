@@ -16,7 +16,7 @@ The `adn_endec_decoder_64b66b` module is used to decode 66-bit blocks into 64-bi
 | 1.0      | 2026-07-29 | Foez Ahmed      | Stable release                                         |
 
 Author : Foez Ahmed (foez.official@gmail.com)
-This file is part of ADN-VLSI/adn_endec
+This file is part of adnsemicon/adn_endec
 Copyright (c) 2026 ADN Semiconductors
 Licensed under the MIT License
 See LICENSE file in the project root for full license information

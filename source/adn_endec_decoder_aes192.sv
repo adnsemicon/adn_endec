@@ -11,7 +11,7 @@ Drive `ciphertext_in` and `key_in`; the decrypted 128-bit result is produced on 
 | 1.0      | 2026-08-21 | Foez Ahmed      | Stable release                                         |
 
 Author : Foez Ahmed (foez.official@gmail.com)
-This file is part of ADN-VLSI/adn_endec
+This file is part of adnsemicon/adn_endec
 Copyright (c) 2026 ADN Semiconductors
 Licensed under the MIT License
 See LICENSE file in the project root for full license information
